@@ -42,6 +42,7 @@
 "Settings_iDownload" = "iDownload (개발자 셸)";
 "Settings_Verbose_Logs" = "상세 로그";
 "Settings_Apps_JIT" = "앱에서 JIT 사용 허용";
+"Settings_Allow_Old_arm64e_ABI_Libraries" = "레거시 arm64e ABI 라이브러리 허용";
 "Settings_Jetsam_Multiplier" = "Jetsam 메모리 한도 배수";
 
 // Settings Buttons
